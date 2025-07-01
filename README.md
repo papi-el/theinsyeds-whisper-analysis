@@ -130,8 +130,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - GitHub: [@theinsyeds](https://github.com/theinsyeds)
-- Email: contact@theinsyeds.com
-- Website: [theinsyeds.com](https://theinsyeds.com)
+- Email: theinsyeds@gmail.com
+- Website: coming soon! [theinsyeds.com](https://theinsyeds.com)
 
 ## 🙏 Acknowledgments
 
@@ -144,7 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *This research demonstrates the power of local AI deployment and the exceptional performance of Apple Silicon for machine learning workloads.*
 
 **⭐ If this research helped you, please consider starring the repository!**
-EOF
 
 # Create RESEARCH_LOG.md
 cat > RESEARCH_LOG.md << 'EOF'
