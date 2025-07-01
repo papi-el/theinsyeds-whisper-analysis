@@ -181,40 +181,42 @@ text
 
 ## Repository Structure
 
+## 📁 Project Structure
+<pre>
 theinsyeds-whisper-analysis/
 ├── analysis/
-│ ├── notebooks/
-│ │ └── whisper-pipeline-deep-dive.ipynb # Main research notebook
-│ ├── scripts/
-│ │ └── whisper_test.py # Performance testing script
-│ └── tests/
-│ ├── test_whisper_functions.py # Unit tests
-│ └── test_audio_processing.py # Audio processing tests
+│   ├── notebooks/
+│   │   └── whisper-pipeline-deep-dive.ipynb    # Main research notebook
+│   ├── scripts/
+│   │   └── whisper_test.py                     # Performance testing script
+│   └── tests/
+│       ├── test_whisper_functions.py           # Unit tests
+│       └── test_audio_processing.py            # Audio processing tests
 ├── data/
-│ ├── raw/ # Original audio files
-│ ├── processed/ # Processed audio data
-│ └── samples/ # Test audio samples
+│   ├── raw/                                    # Original audio files
+│   ├── processed/                              # Processed audio data
+│   └── samples/                                # Test audio samples
 ├── documentation/
-│ ├── technical/
-│ │ ├── README.md # This file
-│ │ └── METHODOLOGY.md # Research methodology
-│ └── beginner/
-│ ├── whisper-explained-simply.md # Beginner guide
-│ └── getting-started-guide.md # Setup instructions
+│   ├── technical/
+│   │   ├── README.md                           # Technical documentation
+│   │   └── METHODOLOGY.md                      # Research methodology
+│   └── beginner/
+│       ├── whisper-explained-simply.md         # Beginner guide
+│       └── getting-started-guide.md            # Setup instructions
 ├── research/
-│ ├── notes/ # Research notes
-│ ├── references/ # Bibliography
-│ └── experiments/ # Experiment logs
+│   ├── notes/                                  # Research notes
+│   ├── references/                             # Bibliography
+│   └── experiments/                            # Experiment logs
 ├── results/
-│ ├── benchmarks/ # Performance data
-│ └── output/ # Analysis outputs
+│   ├── benchmarks/                             # Performance data
+│   └── outputs/                                # Analysis outputs
 ├── assets/
-│ ├── images/ # Charts and screenshots
-│ └── diagrams/ # Architecture diagrams
-├── requirements.txt # Python dependencies
-├── README.md # Main project README
-└── RESEARCH_LOG.md # Research documentation
-text
+│   ├── images/                                 # Charts and screenshots
+│   └── diagrams/                               # Architecture diagrams
+├── requirements.txt                            # Python dependencies
+├── README.md                                   # Main project README
+└── RESEARCH_LOG.md                             # Research documentation
+</pre>
 
 ## Performance Benchmarks
 
