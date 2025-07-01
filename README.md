@@ -13,28 +13,30 @@ This project provides the first comprehensive benchmark of Whisper performance o
 - **Optimization**: MPS acceleration provides significant speedup
 
 ## 📁 Project Structure
+<pre>
 theinsyeds-whisper-analysis/
 ├── analysis/
-│ ├── notebooks/whisper-pipeline-deep-dive.ipynb # Main research notebook
-│ ├── scripts/whisper_test.py # Performance testing
-│ └── tests/ # Unit tests
+│   ├── notebooks/whisper-pipeline-deep-dive.ipynb
+│   ├── scripts/whisper_test.py
+│   └── tests/
 ├── data/
-│ ├── raw/ # Original audio files
-│ ├── processed/ # Processed audio data
-│ └── samples/ # Test audio samples
+│   ├── raw/
+│   ├── processed/
+│   └── samples/
 ├── documentation/
-│ ├── technical/ # Technical documentation
-│ └── beginner/ # Beginner-friendly guides
+│   ├── technical/
+│   └── beginner/
 ├── research/
-│ ├── notes/ # Research notes
-│ ├── references/ # Bibliography
-│ └── experiments/ # Experiment logs
+│   ├── notes/
+│   ├── references/
+│   └── experiments/
 ├── results/
-│ ├── benchmarks/ # Performance data
-│ └── output/ # Analysis outputs
+│   ├── benchmarks/
+│   └── outputs/
 └── assets/
-├── images/ # Charts and screenshots
-└── diagrams/ # Architecture diagrams
+    ├── images/
+    └── diagrams/
+</pre>
 
 ## 🚀 Quick Start
 
