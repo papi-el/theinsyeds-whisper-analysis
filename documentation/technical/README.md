@@ -1,4 +1,4 @@
-# theinsyeds Whisper Analysis: Technical Documentation
+# Theinsyeds Whisper Analysis: Technical Documentation
 
 ## Overview
 
@@ -376,14 +376,22 @@ For detailed methodology, see [METHODOLOGY.md](METHODOLOGY.md).
 
 If you use this research in your work, please cite:
 
-@misc{ahmed2025whisper,
-title={theinsyeds Whisper Analysis: Breaking Down the Speech Recognition Pipeline},
-author={Ahmed, Syed Furqaan},
-year={2025},
-url={https://github.com/theinsyeds/theinsyeds-whisper-analysis},
-note={Technical Research Project}
+**BibTeX:**
+@misc{theinsyeds2025whisper,
+  title={theinsyeds Whisper Analysis: Breaking Down the Speech Recognition Pipeline},
+  author={Ahmed, Syed Furqaan},
+  year={2025},
+  url={https://github.com/theinsyeds/theinsyeds-whisper-analysis},
+  note={Technical Research Project}
 }
-text
+
+**APA Style:**
+Syed Furqaan Ahmed (2025). theinsyeds Whisper Analysis: Breaking Down the Speech Recognition Pipeline.
+Technical Research Project. https://github.com/theinsyeds/theinsyeds-whisper-analysis
+
+**IEEE Style:**
+Syed Furqaan Ahmed, "Theinsyeds Whisper Analysis: Breaking Down the Speech Recognition Pipeline,"
+Technical Research Project, 2025. [Online]. Available: https://github.com/theinsyeds/theinsyeds-whisper-analysis
 
 ## License
 
@@ -393,8 +401,8 @@ This project is licensed under the MIT License - see the [LICENSE](../../LICENSE
 
 - **Issues**: [GitHub Issues](https://github.com/theinsyeds/theinsyeds-whisper-analysis/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/theinsyeds/theinsyeds-whisper-analysis/discussions)
-- **Email**: contact@theinsyeds.com
-- **Website**: [theinsyeds.com](https://theinsyeds.com)
+- **Email**: theinsyeds@gmail.com
+- **Website**: coming soon! [theinsyeds.com](https://theinsyeds.com)
 
 ## Acknowledgments
 
