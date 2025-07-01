@@ -58,7 +58,7 @@ This project provides comprehensive technical analysis of OpenAI's Whisper speec
 ### Quick Setup
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
-git clone https://github.com/yourusername/theinsyeds-whisper-analysis.git
+git clone https://github.com/theinsyeds/theinsyeds-whisper-analysis.git
 cd theinsyeds-whisper-analysis
 
 3. **Set up environment**:
