@@ -145,7 +145,7 @@ Project maintainers have the right to remove, edit, or reject contributions that
 
 ### Reporting Issues
 If you experience or witness unacceptable behavior, please contact:
-- **Email**: contact@theinsyeds.com
+- **Email**: theinsyeds@gmail.com
 - **GitHub**: Create a private issue or contact @theinsyeds directly
 
 ## Recognition
