@@ -173,7 +173,7 @@ All contributors will be:
 
 ### Contact Information
 - **Project Lead**: Syed Furqaan Ahmed (@theinsyeds)
-- **Email**: contact@theinsyeds.com
+- **Email**: theinsyeds@gmail.com
 - **GitHub Discussions**: For community questions
 - **Issues**: For bugs and feature requests
 
