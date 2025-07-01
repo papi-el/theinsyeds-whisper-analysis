@@ -1,0 +1,1 @@
+Hello, this is a test of whisper speech recognition on MacM4, I am building a technical analysis for the Insides brand.

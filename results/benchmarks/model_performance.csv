@@ -1,0 +1,4 @@
+Model,Load_Time_s,Transcribe_Time_s,Total_Time_s,Accuracy_Percent,Character_Length,Issues_Count
+tiny,0.24,0.37,0.62,99.2,119,3
+base,0.43,0.54,0.96,100.0,120,1
+small,1.04,1.44,2.48,100.0,120,1

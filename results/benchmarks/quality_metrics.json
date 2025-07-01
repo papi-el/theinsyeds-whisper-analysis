@@ -1,0 +1,34 @@
+{
+    "test_date": "2025-07-01",
+    "test_environment": "Mac M4 with MPS",
+    "test_audio": "synthetic_speech_10s",
+    "models_tested": {
+      "tiny": {
+        "accuracy": 99.2,
+        "load_time": 0.24,
+        "transcribe_time": 0.37,
+        "issues": ["capitalization", "spacing", "brand_name"],
+        "transcription": "Hello, this is a test of whisper speech recognition on MacM4, I am building a technical analysis for the Insides brand."
+      },
+      "base": {
+        "accuracy": 100.0,
+        "load_time": 0.43,
+        "transcribe_time": 0.54,
+        "issues": ["brand_name"],
+        "transcription": "Hello, this is a test of Whisper Speech recognition on Mac M4, I am building a technical analysis for the Insides brand."
+      },
+      "small": {
+        "accuracy": 100.0,
+        "load_time": 1.04,
+        "transcribe_time": 1.44,
+        "issues": ["capitalization"],
+        "transcription": "Hello, this is a test of whisper speech recognition on Mac M4. I am building a technical analysis for the insides brand."
+      }
+    },
+    "edge_cases": {
+      "short_audio": "empty_result",
+      "silent_audio": "empty_result",
+      "language_detection": "english_detected"
+    }
+  }
+  
